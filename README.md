@@ -13,7 +13,7 @@ mvn package
 ## Configuring
 
 ```
-export PATH=[mvn-root]/daemon/target/maven-distro/bin:$PATH
+export PATH=`pwd`/daemon/target/maven-distro/bin:$PATH
 ```
 
 ## Usage
